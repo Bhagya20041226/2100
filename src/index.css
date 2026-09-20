@@ -1,0 +1,21 @@
+ html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#root {
+  max-width: none;
+}
